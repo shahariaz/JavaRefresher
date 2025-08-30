@@ -7,5 +7,7 @@ public class Variable {
       //Java is a statically typed language. It means all variables must be declared before they can be used.
       // variable/ container  and variable name / identifier use interchangeably
       // Java is case-sensitive
+      // variable name should make sense
+
   }
 }
